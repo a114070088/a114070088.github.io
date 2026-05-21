@@ -1,0 +1,50 @@
+.adscenter{
+    text-align: center;
+    color: #78b9cd;
+}
+.ads{
+    background-color: black;
+    text-align: center;
+    border: 20px;
+    border-radius: 20px;
+    padding: 40px;
+    margin: 0px auto ;
+    width: 80%;
+}
+.centercenter{
+    text-align: center;
+}
+a.adslink{
+    color: blue;
+    padding: 0 20px;
+    border-radius: 40%;
+}
+a.adslink:hover{
+    background-color: blue;
+    color: white;
+    padding: 0 20px;}
+    .adsbig{
+        font-size: 20px;
+        font-weight: 800;
+    }
+ .adsgo{
+    text-align: center;
+    font-size: 100px;
+ }   
+ section#about{
+    background-color: #adadad;
+    background-image: url(../assets/img/bg.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+ }
+ section#about h1{
+    color: #ffffff;
+ }
+ section#cta{
+    background-color:#adadad ;
+ }
+ section#cta h2{
+    color: white;
+ }
